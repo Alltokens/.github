@@ -69,6 +69,6 @@ Especially relevant for teams operating AI in production.
 
 ## Contact the developer:
 
-t.me/naumxv
+https://t.me/naumxv
 
 naumxv@icloud.com
