@@ -64,3 +64,11 @@ AllTokens is designed as infrastructure rather than an application-layer tool.
 Use AllTokens when you need a stable gateway layer between your application and rapidly evolving model providers.
 
 Especially relevant for teams operating AI in production.
+
+---
+
+## Contact the developer:
+
+t.me/naumxv
+
+naumxv@icloud.com
