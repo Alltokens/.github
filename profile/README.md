@@ -1,5 +1,8 @@
 # AllTokens
 
+RU version
+[RU version](./README.RU.md)
+
 Unified LLM gateway providing OpenAI-compatible access to multiple AI providers through a single API.
 
 AllTokens acts as a routing and control plane for production AI workloads, helping teams avoid vendor lock-in while optimizing for cost, latency, and reliability.
