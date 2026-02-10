@@ -1,6 +1,5 @@
 # AllTokens
 
-RU version
 [RU version](./README.RU.md)
 
 Unified LLM gateway providing OpenAI-compatible access to multiple AI providers through a single API.
